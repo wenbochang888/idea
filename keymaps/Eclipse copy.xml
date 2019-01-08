@@ -1,0 +1,63 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="Console.TableResult.NavigateExportedAction" />
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditorEscape" />
+  <action id="FileChooser.GotoHome" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="ctrl decimal" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="escape" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="JumpToLastChange" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RunToCursor" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="shift alt j" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="f4" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="Unwrap" />
+</keymap>
