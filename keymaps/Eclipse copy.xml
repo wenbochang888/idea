@@ -1,10 +1,11 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
   <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="shift ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
