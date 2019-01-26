@@ -12,9 +12,14 @@
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="Console.TableResult.NavigateExportedAction" />
+  <action id="Console.TableResult.NextPage" />
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="EditorDuplicateLines" />
   <action id="EditorEscape" />
   <action id="FileChooser.GotoHome" />
   <action id="FindInPath">
