@@ -4,7 +4,6 @@
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="shift ctrl c" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="CodeCompletion">
@@ -34,14 +33,13 @@
   </action>
   <action id="GotoBookmark1" />
   <action id="GotoChangedFile" />
-  <action id="GotoClass" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="shift f1" />
     <keyboard-shortcut first-keystroke="ctrl decimal" />
-  </action>
-  <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
-    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
