@@ -591,8 +591,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d8d8d8" />
-        <option name="ERROR_STRIPE_COLOR" value="d8d8d8" />
+        <option name="BACKGROUND" value="55" />
+        <option name="ERROR_STRIPE_COLOR" value="55" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
