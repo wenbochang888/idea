@@ -1,7 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://ehcache.org/ehcache.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/39e8daee_ehcache.xsd" />
-    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2018.3/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
     <resource url="http://www.ehcache.org/schema/ehcache-core.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/b00a4ff3_ehcache-core.xsd" />
     <resource url="http://www.springframework.org/schema/aop/spring-aop-2.5.xsd" location="$USER_HOME$/.IntelliJIdea2018.3/system/extResources/a5688a33_spring-aop-2.5.xsd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans-2.5.xsd" location="$USER_HOME$/.IntelliJIdea2018.3/system/extResources/6e8f9e13_spring-beans-2.5.xsd" />
