@@ -1,7 +1,15 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="ChangesView.Diff" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="CopyElement">
+    <keyboard-shortcut first-keystroke="f5" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
@@ -10,12 +18,23 @@
   </action>
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
-  <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="NextOccurence" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="alt r" />
@@ -23,6 +42,9 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="RunDashboard.ShowConfigurations" />
   <action id="SendEOF" />
+  <action id="ShowContent" />
+  <action id="ShowSearchHistory" />
   <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.MoveWatchDown" />
   <action id="openAssertEqualsDiff" />
 </keymap>
