@@ -1,10 +1,10 @@
 <templateSet group="java">
-  <template name="main" value="public static void main(String[] args) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="main" value="public static void main(String[] args) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="syso" value="System.out.println($END$);" description="" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="syso" value="System.out.println($END$);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>
