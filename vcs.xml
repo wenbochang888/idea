@@ -66,6 +66,10 @@
           <option name="url" value="https://github.com/code4craft/tiny-spring.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zaiyunduan123/springboot-seckill.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace" />
