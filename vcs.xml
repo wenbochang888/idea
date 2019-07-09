@@ -70,6 +70,14 @@
           <option name="url" value="https://github.com/zaiyunduan123/springboot-seckill.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.n.xiaomi.com:cashpay/mipay-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.n.xiaomi.com/cashpay/mipay-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace" />
