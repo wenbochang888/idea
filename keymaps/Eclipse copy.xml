@@ -62,6 +62,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl m" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
+  <action id="ShowRegistry">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
