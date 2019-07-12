@@ -102,6 +102,10 @@
           <option name="url" value="http://git.n.xiaomi.com/cashpay/cashpay-wap.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@v9.git.n.xiaomi.com:cashpay-desk/cashpay-wap-domain.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace" />
