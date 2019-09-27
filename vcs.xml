@@ -22,6 +22,10 @@
           <option name="url" value="http://git.n.xiaomi.com/cashpay-test/mipay-web-test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.n.xiaomi.com" />
+          <option name="userName" value="changwenbo@xiaomi.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace" />
