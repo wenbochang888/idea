@@ -56,6 +56,9 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="RunToCursor" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift alt j" />
