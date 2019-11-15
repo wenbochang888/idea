@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="INSTRUMENTING_AGENT" value="false" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
