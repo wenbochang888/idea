@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/wenbochang888/osc.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wenbochang888/easyexcel.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\workspace" />
