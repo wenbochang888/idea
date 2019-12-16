@@ -42,8 +42,12 @@
           <option name="url" value="https://github.com/wenbochang888/easyexcel.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@v9.git.n.xiaomi.com:cashpay-base/cashpay-access-common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\workspace" />
+    <option name="cloneParentDir" value="D:\" />
   </component>
 </application>
