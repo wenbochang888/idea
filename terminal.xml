@@ -1,6 +1,0 @@
-<application>
-  <component name="TerminalOptionsProvider">
-    <option name="myHighlightHyperlinks" value="false" />
-    <option name="myShellPath" value="C:\Program Files\Git\bin\sh.exe" />
-  </component>
-</application>
