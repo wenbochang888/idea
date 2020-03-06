@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="高并发优化思路" type="PLAIN_TEXT" />
-      <mapping ext="thrift" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
