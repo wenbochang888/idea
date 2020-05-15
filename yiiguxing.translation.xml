@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="index" />
       <item value="Retry" />
       <item value="Hierarchical" />
       <item value="Listable" />
