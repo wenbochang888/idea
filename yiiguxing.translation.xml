@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="editor" />
+      <item value="Registry " />
+      <item value="retention" />
+      <item value="retention " />
       <item value="策略" />
       <item value="user Id" />
       <item value="Invocation" />
@@ -24,7 +28,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
+        <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="16" />
       </map>
     </option>
