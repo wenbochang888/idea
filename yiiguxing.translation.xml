@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Extention" />
       <item value="editor" />
       <item value="Registry " />
       <item value="retention" />
@@ -29,7 +30,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
