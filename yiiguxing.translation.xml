@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="keepAliveTime when the number of threads is greater than * the core, this is the maximum time that excess idle threads * will wait for new tasks before terminating." />
+      <item value="discards" />
       <item value="* Submits a Runnable task for execution and returns a Future * representing that task. The Future's {@code get} method will * return the given result upon successful completion. *" />
       <item value="completion" />
       <item value="upon" />
@@ -32,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
