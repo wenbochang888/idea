@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Submits a Runnable task for execution and returns a Future * representing that task. The Future's {@code get} method will * return the given result upon successful completion. *" />
+      <item value="completion" />
+      <item value="upon" />
       <item value="Extention" />
       <item value="editor" />
       <item value="Registry " />
