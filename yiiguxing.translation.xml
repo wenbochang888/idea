@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Performs an action for each element of this stream, in the encounter * order of the stream if the stream has a defined encounter order." />
+      <item value="order" />
+      <item value="encounter" />
       <item value="triggers" />
       <item value="is Alphabetic" />
       <item value="Decrypt" />
