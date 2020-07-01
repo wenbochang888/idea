@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean." />
       <item value="block" />
       <item value="indefinitely" />
       <item value="emit" />
@@ -50,12 +51,11 @@
       <item value="son" />
       <item value="either" />
       <item value="uniquely" />
-      <item value="interface" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
