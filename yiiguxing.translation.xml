@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="triggered" />
       <item value="Streams" />
       <item value="permit" />
       <item value="Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean." />
@@ -50,12 +51,11 @@
       <item value="pen" />
       <item value="json" />
       <item value="gson" />
-      <item value="son" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
