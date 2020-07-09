@@ -15,6 +15,10 @@
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
