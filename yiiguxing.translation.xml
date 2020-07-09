@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="derived" />
+      <item value="* Copy the property values of the given source bean into the given target bean, * only setting properties defined in the given &quot;editable&quot; class (or interface). * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored. * &lt;p&gt;This is just a convenience method. For more complex transfer needs, * consider using a full BeanWrapper." />
       <item value="triggered" />
       <item value="Streams" />
       <item value="permit" />
@@ -49,13 +51,11 @@
       <item value="accessing" />
       <item value="key" />
       <item value="pen" />
-      <item value="json" />
-      <item value="gson" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
