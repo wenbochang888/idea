@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interval" />
       <item value="Assumption" />
       <item value="Binding" />
       <item value="Relaxed" />
@@ -50,12 +51,11 @@
       <item value="Listable" />
       <item value="Listable Bean Factory" />
       <item value="definitions" />
-      <item value="objects" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
