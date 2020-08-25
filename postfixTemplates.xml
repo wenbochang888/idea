@@ -1,0 +1,5 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="soutv" key=".syso" provider="builtin.java" builtin="soutv" />
+  </component>
+</application>
