@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="legacy" />
+      <item value="Legacy" />
       <item value="Refund" />
       <item value="interval" />
       <item value="Assumption" />
@@ -49,8 +51,6 @@
       <item value="index" />
       <item value="Retry" />
       <item value="Hierarchical" />
-      <item value="Listable" />
-      <item value="Listable Bean Factory" />
     </histories>
     <option name="languageScores">
       <map>
