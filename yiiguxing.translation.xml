@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complex" />
       <item value="legacy" />
       <item value="Legacy" />
       <item value="Refund" />
@@ -50,11 +51,10 @@
       <item value="策" />
       <item value="index" />
       <item value="Retry" />
-      <item value="Hierarchical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
+        <entry key="CHINESE" value="44" />
         <entry key="ENGLISH" value="44" />
         <entry key="DANISH" value="1" />
       </map>
