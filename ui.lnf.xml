@@ -1,6 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="EDITOR_TAB_LIMIT" value="8" />
+    <option name="EDITOR_TAB_LIMIT" value="16" />
     <option name="MAX_LOOKUP_WIDTH2" value="1026" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
   </component>
 </application>
