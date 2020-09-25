@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
     <option name="INSTRUMENTING_AGENT" value="false" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -96,11 +97,6 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
