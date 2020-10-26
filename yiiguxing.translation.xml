@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="individual" />
+      <item value="composed" />
       <item value="slight" />
       <item value="complex" />
       <item value="legacy" />
@@ -49,13 +51,11 @@
       <item value="策略" />
       <item value="user Id" />
       <item value="Invocation" />
-      <item value="策" />
-      <item value="index" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
