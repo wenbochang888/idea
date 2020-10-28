@@ -1,66 +1,29 @@
 <application>
   <component name="AppStorage">
+    <option name="maxHistorySize" value="20" />
     <histories>
-      <item value="individual" />
-      <item value="composed" />
-      <item value="slight" />
-      <item value="complex" />
-      <item value="legacy" />
-      <item value="Legacy" />
-      <item value="Refund" />
-      <item value="interval" />
-      <item value="Assumption" />
-      <item value="Binding" />
-      <item value="Relaxed" />
-      <item value="derived" />
-      <item value="* Copy the property values of the given source bean into the given target bean, * only setting properties defined in the given &quot;editable&quot; class (or interface). * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored. * &lt;p&gt;This is just a convenience method. For more complex transfer needs, * consider using a full BeanWrapper." />
-      <item value="triggered" />
-      <item value="Streams" />
-      <item value="permit" />
-      <item value="Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean." />
-      <item value="block" />
-      <item value="indefinitely" />
-      <item value="emit" />
-      <item value="* Performs an action for each element of this stream, in the encounter * order of the stream if the stream has a defined encounter order." />
-      <item value="order" />
-      <item value="encounter" />
-      <item value="triggers" />
-      <item value="is Alphabetic" />
-      <item value="Decrypt" />
-      <item value="/** * Processes a method invocation on a proxy instance and returns * the result. This method will be invoked on an invocation handler * when a method is invoked on a proxy instance that it is * associated with. * * @param proxy the proxy instance that the method was invoked on * * @param method the {@code Method} instance corresponding to * the interface method invoked on the proxy instance. The declaring * class of the {@code Method} object will be the interface that * the method was declared in, which may be a superinterface of the * proxy interface that the proxy class inherits the method through. * * @param args an array of objects containing the values of the * arguments passed in the method invocation on the proxy instance, * or {@code null} if interface method takes no arguments. * Arguments of primitive types are wrapped in instances of the * appropriate primitive wrapper class, such as * {@code java.lang.Integer} or {@code java.lang.Boolean}. * * @return the value to return from the method invocation on the * proxy instance. If the declared return type of the interface * method is a primitive type, then the value returned by * this method must be an instance of the corresponding primitive * wrapper class; otherwise, it must be a type assignable to the * declared return type. If the value returned by this method is * {@code null} and the interface method's return type is * primitive, then a {@code NullPointerException} will be * thrown by the method invocation on the proxy instance. If the * value returned by this method is otherwise not compatible with * the interface method's declared return type as described above, * a {@code ClassCastException} will be thrown by the method * invocation on the proxy instance. * * @throws Throwable the exception to throw from the method * invocation on the proxy instance. The exception's type must be * assignable either to any of the exception types declared in the * {@code throws} clause of the interface method or to the * unchecked exception types {@code java.lang.RuntimeException} * or {@code java.lang.Error}. If a checked exception is * thrown by this method that is not assignable to any of the * exception types declared in the {@code throws} clause of * the interface method, then an * {@link UndeclaredThrowableException} containing the * exception that was thrown by this method will be thrown by the * method invocation on the proxy instance. * * @see UndeclaredThrowableException */" />
-      <item value="tickles a bug in oldjavac" />
-      <item value="tickles" />
-      <item value="process Info" />
-      <item value="logger" />
-      <item value="/** * Set the transaction rollback-only. This instructs the transaction manager * that the only possible outcome of the transaction may be a rollback, as * alternative to throwing an exception which would in turn trigger a rollback. * &lt;p&gt;This is mainly intended for transactions managed by * {@link org.springframework.transaction.support.TransactionTemplate} or * {@link org.springframework.transaction.interceptor.TransactionInterceptor}, * where the actual commit/rollback decision is made by the container." />
-      <item value="* Set the transaction rollback-only. This instructs the transaction manager * that the only possible outcome of the transaction may be a rollback, as * alternative to throwing an exception which would in turn trigger a rollback. * &lt;p&gt;This is mainly intended for transactions managed by" />
-      <item value="描述" />
-      <item value="desc" />
-      <item value="/** * Initiates an orderly shutdown in which previously submitted * tasks are executed, but no new tasks will be accepted. * Invocation has no additional effect if already shut down. * * &lt;p&gt;This method does not wait for previously submitted tasks to * complete execution. Use {@link #awaitTermination awaitTermination} * to do that. *" />
-      <item value="Initiates" />
-      <item value="keepAliveTime when the number of threads is greater than * the core, this is the maximum time that excess idle threads * will wait for new tasks before terminating." />
-      <item value="discards" />
-      <item value="* Submits a Runnable task for execution and returns a Future * representing that task. The Future's {@code get} method will * return the given result upon successful completion. *" />
-      <item value="completion" />
-      <item value="upon" />
-      <item value="Extention" />
-      <item value="editor" />
-      <item value="Registry " />
-      <item value="retention" />
-      <item value="retention " />
-      <item value="策略" />
-      <item value="user Id" />
-      <item value="Invocation" />
+      <item value="equivalence" />
+      <item value="nonstandard" />
+      <item value="immutable" />
+      <item value="* &lt;p&gt;&lt;b&gt;Note:&lt;/b&gt; The returned view performs slightly better when {@code set1} is the smaller of * the two sets. If you have reason to believe one of your sets will generally be smaller than the * other, pass it first. Unfortunately, since this method sets the generic type of the returned * set based on the type of the first set passed, this could in rare cases force you to make a * cast, for example:" />
+      <item value="slightly" />
+      <item value="/** * Returns an unmodifiable &lt;b&gt;view&lt;/b&gt; of the intersection of two sets. The returned set contains * all elements that are contained by both backing sets. The iteration order of the returned set * matches that of {@code set1}." />
+      <item value="intersection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
