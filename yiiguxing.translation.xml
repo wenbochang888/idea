@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="/** * Returns the number of one-bits in the two's complement binary * representation of the specified {@code int} value. This function is * sometimes referred to as the &lt;i&gt;population count&lt;/i&gt;. * * @param i the value whose bits are to be counted * @return the number of one-bits in the two's complement binary * representation of the specified {@code int} value. * @since 1.5 */" />
+      <item value="complement" />
       <item value="* &lt;p&gt;The actual {@link #getOrder() order} can be interpreted as prioritization, * with the first object (with the lowest order value) having the highest * priority." />
       <item value="interpreted" />
       <item value="right Right" />
@@ -23,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
