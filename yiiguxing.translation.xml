@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="Generic" />
+      <item value="Strategy" />
+      <item value="explicitly" />
       <item value="implicit" />
       <item value="Sole" />
       <item value="/** * Removes from this list all of the elements whose index is between * {@code fromIndex}, inclusive, and {@code toIndex}, exclusive. * Shifts any succeeding elements to the left (reduces their index). * This call shortens the list by {@code (toIndex - fromIndex)} elements. * (If {@code toIndex==fromIndex}, this operation has no effect.) * * &lt;p&gt;This method is called by the {@code clear} operation on this list * and its subLists. Overriding this method to take advantage of * the internals of the list implementation can &lt;i&gt;substantially&lt;/i&gt; * improve the performance of the {@code clear} operation on this list * and its subLists. * * &lt;p&gt;This implementation gets a list iterator positioned before * {@code fromIndex}, and repeatedly calls {@code ListIterator.next} * followed by {@code ListIterator.remove} until the entire range has * been removed. &lt;b&gt;Note: if {@code ListIterator.remove} requires linear * time, this implementation requires quadratic time.&lt;/b&gt; * * @param fromIndex index of first element to be removed * @param toIndex index after last element to be removed */" />
@@ -19,14 +22,11 @@
       <item value="iteration" />
       <item value="insertion" />
       <item value="/** * A map of comparable keys to values. Unlike {@code TreeMap}, this class uses * insertion order for iteration order. Comparison order is only used as an * optimization for efficient insertion and removal. * * &lt;p&gt;This implementation was derived from Android 4.1's TreeMap class. */" />
-      <item value="equivalence" />
-      <item value="nonstandard" />
-      <item value="immutable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
