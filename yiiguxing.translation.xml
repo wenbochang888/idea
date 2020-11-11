@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="emulated" />
       <item value="Generic" />
       <item value="Strategy" />
       <item value="explicitly" />
@@ -21,12 +22,11 @@
       <item value="derived" />
       <item value="iteration" />
       <item value="insertion" />
-      <item value="/** * A map of comparable keys to values. Unlike {@code TreeMap}, this class uses * insertion order for iteration order. Comparison order is only used as an * optimization for efficient insertion and removal. * * &lt;p&gt;This implementation was derived from Android 4.1's TreeMap class. */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
