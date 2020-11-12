@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="Micro-optimization: avoid polymorphic calls to Comparator.compare()." />
+      <item value="polymorphic" />
       <item value="permits" />
       <item value="* A map of comparable keys to values. Unlike {@code TreeMap}, this class uses * insertion order for iteration order. Comparison order is only used as an * optimization for efficient insertion and removal." />
       <item value="optimization" />
@@ -20,13 +22,11 @@
       <item value="interpreted" />
       <item value="right Right" />
       <item value="delta" />
-      <item value="necessary" />
-      <item value="rotation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="77" />
-        <entry key="ENGLISH" value="78" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
