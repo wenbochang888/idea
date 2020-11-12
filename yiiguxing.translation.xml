@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="interoperability" />
       <item value="emulated" />
       <item value="Generic" />
       <item value="Strategy" />
@@ -21,12 +22,11 @@
       <item value="rotations" />
       <item value="derived" />
       <item value="iteration" />
-      <item value="insertion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
