@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="periodic" />
       <item value="* Returns a {@code Collector} that produces the arithmetic mean of an integer-valued * function applied to the input elements. If no elements are present, * the result is 0." />
       <item value="reuse" />
       <item value="合法的" />
@@ -21,12 +22,11 @@
       <item value="Validator" />
       <item value="/** * Returns the number of one-bits in the two's complement binary * representation of the specified {@code int} value. This function is * sometimes referred to as the &lt;i&gt;population count&lt;/i&gt;. * * @param i the value whose bits are to be counted * @return the number of one-bits in the two's complement binary * representation of the specified {@code int} value. * @since 1.5 */" />
       <item value="complement" />
-      <item value="* &lt;p&gt;The actual {@link #getOrder() order} can be interpreted as prioritization, * with the first object (with the lowest order value) having the highest * priority." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="83" />
+        <entry key="ENGLISH" value="84" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
