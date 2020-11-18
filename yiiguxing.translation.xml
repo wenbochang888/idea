@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="/** * Modify the application context's internal bean factory after its standard * initialization. All bean definitions will have been loaded, but no beans * will have been instantiated yet. This allows for overriding or adding * properties even to eager-initializing beans. * @param beanFactory the bean factory used by the application context * @throws org.springframework.beans.BeansException in case of errors */" />
       <item value="periodic" />
       <item value="* Returns a {@code Collector} that produces the arithmetic mean of an integer-valued * function applied to the input elements. If no elements are present, * the result is 0." />
       <item value="reuse" />
@@ -21,12 +22,11 @@
       <item value="/** * Removes from this list all of the elements whose index is between * {@code fromIndex}, inclusive, and {@code toIndex}, exclusive. * Shifts any succeeding elements to the left (reduces their index). * This call shortens the list by {@code (toIndex - fromIndex)} elements. * (If {@code toIndex==fromIndex}, this operation has no effect.) * * &lt;p&gt;This method is called by the {@code clear} operation on this list * and its subLists. Overriding this method to take advantage of * the internals of the list implementation can &lt;i&gt;substantially&lt;/i&gt; * improve the performance of the {@code clear} operation on this list * and its subLists. * * &lt;p&gt;This implementation gets a list iterator positioned before * {@code fromIndex}, and repeatedly calls {@code ListIterator.next} * followed by {@code ListIterator.remove} until the entire range has * been removed. &lt;b&gt;Note: if {@code ListIterator.remove} requires linear * time, this implementation requires quadratic time.&lt;/b&gt; * * @param fromIndex index of first element to be removed * @param toIndex index after last element to be removed */" />
       <item value="Validator" />
       <item value="/** * Returns the number of one-bits in the two's complement binary * representation of the specified {@code int} value. This function is * sometimes referred to as the &lt;i&gt;population count&lt;/i&gt;. * * @param i the value whose bits are to be counted * @return the number of one-bits in the two's complement binary * representation of the specified {@code int} value. * @since 1.5 */" />
-      <item value="complement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="85" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
