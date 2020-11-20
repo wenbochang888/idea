@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="/** * &lt;p&gt;A utility that attempts to keep the data from a node locally cached. This class * will watch the node, respond to update/create/delete events, pull down the data, etc. You can * register a listener that will get notified when changes occur.&lt;/p&gt; * * &lt;p&gt;&lt;b&gt;IMPORTANT&lt;/b&gt; - it's not possible to stay transactionally in sync. Users of this class must * be prepared for false-positives and false-negatives. Additionally, always use the version number * when updating data to avoid overwriting another process' change.&lt;/p&gt; */" />
       <item value="债券" />
       <item value="independent" />
       <item value="/** * Modify the application context's internal bean factory after its standard * initialization. All bean definitions will have been loaded, but no beans * will have been instantiated yet. This allows for overriding or adding * properties even to eager-initializing beans. * @param beanFactory the bean factory used by the application context * @throws org.springframework.beans.BeansException in case of errors */" />
@@ -21,12 +22,11 @@
       <item value="explicitly" />
       <item value="implicit" />
       <item value="Sole" />
-      <item value="/** * Removes from this list all of the elements whose index is between * {@code fromIndex}, inclusive, and {@code toIndex}, exclusive. * Shifts any succeeding elements to the left (reduces their index). * This call shortens the list by {@code (toIndex - fromIndex)} elements. * (If {@code toIndex==fromIndex}, this operation has no effect.) * * &lt;p&gt;This method is called by the {@code clear} operation on this list * and its subLists. Overriding this method to take advantage of * the internals of the list implementation can &lt;i&gt;substantially&lt;/i&gt; * improve the performance of the {@code clear} operation on this list * and its subLists. * * &lt;p&gt;This implementation gets a list iterator positioned before * {@code fromIndex}, and repeatedly calls {@code ListIterator.next} * followed by {@code ListIterator.remove} until the entire range has * been removed. &lt;b&gt;Note: if {@code ListIterator.remove} requires linear * time, this implementation requires quadratic time.&lt;/b&gt; * * @param fromIndex index of first element to be removed * @param toIndex index after last element to be removed */" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
