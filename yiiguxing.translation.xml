@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="access" />
+      <item value="insertion" />
       <item value="preserve" />
       <item value="/** * &lt;p&gt;A utility that attempts to keep the data from a node locally cached. This class * will watch the node, respond to update/create/delete events, pull down the data, etc. You can * register a listener that will get notified when changes occur.&lt;/p&gt; * * &lt;p&gt;&lt;b&gt;IMPORTANT&lt;/b&gt; - it's not possible to stay transactionally in sync. Users of this class must * be prepared for false-positives and false-negatives. Additionally, always use the version number * when updating data to avoid overwriting another process' change.&lt;/p&gt; */" />
       <item value="债券" />
@@ -20,13 +22,11 @@
       <item value="emulated" />
       <item value="Generic" />
       <item value="Strategy" />
-      <item value="explicitly" />
-      <item value="implicit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="87" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
