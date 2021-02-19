@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="Transient" />
+      <item value="derived" />
       <item value="trivial" />
       <item value="elapsed" />
       <item value="access" />
@@ -20,13 +22,11 @@
       <item value="permits" />
       <item value="* A map of comparable keys to values. Unlike {@code TreeMap}, this class uses * insertion order for iteration order. Comparison order is only used as an * optimization for efficient insertion and removal." />
       <item value="optimization" />
-      <item value="interoperability" />
-      <item value="emulated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
