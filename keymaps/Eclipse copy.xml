@@ -55,6 +55,16 @@
   </action>
   <action id="HippieCompletion" />
   <action id="JumpToLastChange" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift alt r" />
     <keyboard-shortcut first-keystroke="ctrl r" />
