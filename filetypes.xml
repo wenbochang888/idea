@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="高并发优化思路" type="PLAIN_TEXT" />
       <mapping pattern="common_error_messages_en-US" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
