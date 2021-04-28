@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="retrieved" />
       <item value="* Return whether this bean should be lazily initialized, i.e. not * eagerly instantiated on startup. Only applicable to a singleton bean." />
       <item value="applicable" />
       <item value="Transient" />
@@ -21,7 +22,6 @@
       <item value="合法的" />
       <item value="Micro-optimization: avoid polymorphic calls to Comparator.compare()." />
       <item value="polymorphic" />
-      <item value="permits" />
     </histories>
     <option name="languageScores">
       <map>
