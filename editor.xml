@@ -11,7 +11,11 @@
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
