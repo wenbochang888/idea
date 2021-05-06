@@ -15,6 +15,11 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="JAVA.microservices.url.path.inlay.hints" />
+      </set>
+    </option>
     <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
   </component>
   <component name="TodoConfiguration">
