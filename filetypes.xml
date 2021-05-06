@@ -1,10 +1,11 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="高并发优化思路" type="PLAIN_TEXT" />
       <mapping pattern="common_error_messages_en-US" type="PLAIN_TEXT" />
-      <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="gz" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
 </application>
