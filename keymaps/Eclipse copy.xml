@@ -15,6 +15,7 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl q" />
+    <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
@@ -29,6 +30,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="EditorContextInfo" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
