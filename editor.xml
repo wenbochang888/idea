@@ -25,5 +25,9 @@
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
+    <pattern case-sensitive="true" pattern="\btodo-wenbo\b.*" />
+    <filter name="wenbo">
+      <pattern index="2" />
+    </filter>
   </component>
 </application>
