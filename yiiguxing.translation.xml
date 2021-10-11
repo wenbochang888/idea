@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="put If Absent" />
+      <item value="Absent" />
       <item value="only rarely an appropriate alternative to {@code compareAndSet}." />
       <item value="&lt;p&gt;&lt;a href=&quot;package-summary.htmlweakCompareAndSet&quot;&gt;May fail spuriously and does not provide ordering guarantees&lt;a&gt;, so is only rarely an appropriate alternative to {@code compareAndSet}." />
       <item value="spuriously" />
@@ -20,13 +22,11 @@
       <item value="derived" />
       <item value="trivial" />
       <item value="elapsed" />
-      <item value="access" />
-      <item value="insertion" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="102" />
+        <entry key="ENGLISH" value="103" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
