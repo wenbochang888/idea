@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="violating" />
       <item value="integral" />
       <item value="idle" />
       <item value="concise" />
@@ -21,7 +22,6 @@
       <item value="债券" />
       <item value="independent" />
       <item value="/** * Modify the application context's internal bean factory after its standard * initialization. All bean definitions will have been loaded, but no beans * will have been instantiated yet. This allows for overriding or adding * properties even to eager-initializing beans. * @param beanFactory the bean factory used by the application context * @throws org.springframework.beans.BeansException in case of errors */" />
-      <item value="periodic" />
     </histories>
     <option name="languageScores">
       <map>
