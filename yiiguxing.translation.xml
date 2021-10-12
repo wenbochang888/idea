@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="Only for testing to reset the provider instance." />
       <item value="fix" />
       <item value="put If Absent" />
       <item value="Absent" />
@@ -21,12 +22,11 @@
       <item value="applicable" />
       <item value="Transient" />
       <item value="derived" />
-      <item value="trivial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
