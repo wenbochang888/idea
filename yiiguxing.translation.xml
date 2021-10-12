@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="CREATOR" />
       <item value="Only for testing to reset the provider instance." />
       <item value="fix" />
       <item value="put If Absent" />
@@ -21,12 +22,11 @@
       <item value="* Return whether this bean should be lazily initialized, i.e. not * eagerly instantiated on startup. Only applicable to a singleton bean." />
       <item value="applicable" />
       <item value="Transient" />
-      <item value="derived" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
