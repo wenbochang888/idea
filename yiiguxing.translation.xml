@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="Figure 3-1" />
+      <item value="Figure" />
       <item value="CREATOR" />
       <item value="Only for testing to reset the provider instance." />
       <item value="fix" />
@@ -20,19 +22,17 @@
       <item value="&lt;p&gt;&lt;b&gt;NOTE:&lt;b&gt; Since Spring 4.0, annotation-based ordering is supported for many kinds of components in Spring, even for collection injection where the order values of the target components are taken into account (either from their target class or from their {@code @Bean} method). While such order values may influence priorities at injection points, please be aware that they do not influence singleton startup order which is an orthogonal concern determined by dependency relationships and {@code @DependsOn} declarations (influencing a runtime-determined dependency graph)." />
       <item value="escalate" />
       <item value="* Return whether this bean should be lazily initialized, i.e. not * eagerly instantiated on startup. Only applicable to a singleton bean." />
-      <item value="applicable" />
-      <item value="Transient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633919908581" />
+    <option name="lastTrimTime" value="1634611195088" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
