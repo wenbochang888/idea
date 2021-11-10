@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="20" />
     <histories>
+      <item value="redis Service" />
       <item value="radix" />
       <item value="Returns the number of one-bits in the two's complement binary representation of the specified {@code int} value. This function is sometimes referred to as the &lt;i&gt;population count&lt;i&gt;." />
       <item value="Returns the number of zero bits following the lowest-order (&quot;rightmost&quot;)" />
@@ -21,18 +22,17 @@
       <item value="violating" />
       <item value="integral" />
       <item value="idle" />
-      <item value="concise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="113" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635824178310" />
+    <option name="lastTrimTime" value="1636532001581" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
